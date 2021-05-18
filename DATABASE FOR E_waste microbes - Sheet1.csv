@@ -1,0 +1,57 @@
+The organism used,Name of toxic metals removed,Domain,Phylum/Division,Genus,Nature,pH,"Temp.
+(°C)",Type of process
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Acidithiobacillus thioxidans,"Arsenic, Lead, Copper",Bacteria,Eubacteria,Acidithiobacillia,Mesophilic,0.8-3.0,30°C,bioleaching of toxic metals
+Micrococcus roseus,"Cadmium, Copper",Bacteria,Actinobacteria,Micrococcus,Mesophilic,6.0-9.2,25- 35°C,bioleaching of toxic metals
+Thiobacillus ferrooxidans,"Arsenic, Lead",Bacteria,Eubacteria,Acidithiobacillia,Mesophilic,2.5,30°C,bioleaching of toxic metals
+Aspergillus fumigatus,Arsenic,Fungus,Ascomycota,Aspergillus,Mesophilic,6.6 - 7.2,30°C,bioleaching of toxic metals
+Aspergillus niger,"Cadmium, Lead, Aluminum",Fungus,Ascomycota,Aspergillus,Mesophilic,6.4 - 7.3,30°C,bioleaching of toxic metals
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Bacillus sphaericus,Chromium,Bacteria,Bacilli,Bacillus,aerophilic,7.0-9.0,25- 30°C,biosorption of toxic metals
+Myxococcus xanthus,Uranium,Bacteria,Proteobacteria,Myxococcus,mesophile,7.2 - 8.5.,20°C,biosorption of toxic metals
+Pseudomonas aeruginosa,"Cadmium, Uranium",Bacteria,Proteobacteria,Pseudomonas,Mesophilic ,7.0 - 7.8,25-35°C,biosorption of toxic metals
+"Streptoverticillium
+ cinnamoneum","Lead,Zinc",Bacteria,Actinobacteria,Streptomyces,Alkaliphile,3.5-6.0,28°C,biosorption of toxic metals
+Rhizopus arrhizus,"Uranium, Zinc",Fungus,Mucoromycota,Rhizopus,hydrophilic,4.0 -8.0,7 - 44 °C,biosorption of toxic metals
+Saccharomyces cerevisiae,"Cadmium, Lead",Fungus,Ascomycota,Saccharomyces,mesophilic,3.5,37°C,biosorption of toxic metals
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Bacillus circulans,"Chromium,Gold",Bacteria,Firmicutes,Bacillus,aerophilic,7.0-9.0,37°C,bioaccumulation of toxic metals
+Bacillus megaterium,Chromium,Bacteria,Firmicutes,Bacillus,aerophilic,7.0-9.0,37°C.,bioaccumulation of toxic metals
+Deinococcus radiodurans,Uranium,Bacteria,Eubacteria,Deinococcus,extremophilic,7.4,30°C,bioaccumulation of toxic metals
+Micrococcus luteus,Uranium,Bacteria,Actinobacteria,Micrococcus,halophilic,7.0-11.0,30°C,bioaccumulation of toxic metals
+Aspergillus niger,"Chromium, Lead, Aluminum",Fungus,Ascomycota,Aspergillus,Mesophilic,6.4 - 7.3,20- 37°C,bioaccumulation of toxic metals
+Monodictys pelagica,"Chromium, Lead",Fungus,Ascomycota,Piricauda,halophilic,7.0-11.0,30°C,bioaccumulation of toxic metals
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Anaeromyxobacter sp.,Uranium,Bacteria,Proteobacteria,Anaeromyxobacter,mesophilic,3.0-7.0,30°C,"biotransformation of toxic metals
+"
+Clostridium sphenoides,Uranium,Bacteria,Firmicutes,Clostridium,"thermophilic,",6.0–8.0,20– 45°C,"biotransformation of toxic metals
+"
+Halomonas sp.,"Uranium, Arsenic",Bacteria,Proteobacteria,Halomonas,halophilic,5.0–11.0,30°C,"biotransformation of toxic metals
+"
+Serratia sp.,Chromium,Bacteria,Proteobacteria,Serratia,hydrophilic,7.0-9.0,20- 37°C,"biotransformation of toxic metals
+"
+Fusarium oxysporum,Cadmium,Fungus,Ascomycota,Fusarium,Lipophilic,6.3,27.1°C,"biotransformation of toxic metals
+"
+Rhizopus oryzae,Chromium,Fungus,Mucoromycota,Rhizopus,neutrophilic,6.3 to 7.2,7 - 44 °C,"biotransformation of toxic metals
+"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Bacillus fusiformis,"Lead, Iron",Bacteria,Firmicutes,Lysinibacillus,Mesophilic,6.0-9.5,17- 37 °C,"biomineralization of toxic metals
+"
+Cupriavidus metallidurans,"Cadmium, Iron",Bacteria,Proteobacteria,Cupriavidus,Mesophilic,5.5,37°C,"biomineralization of toxic metals
+"
+Desulfotomaculum auripigmentum,"Arsenic, Iron",Bacteria,Firmicutes,Desulfosporosinus,acidophilic,3.5-6.0,20- 45°C,"biomineralization of toxic metals
+"
+Sporosarcina ginsengisoli,"Arsenic, Iron",Bacteria,	Firmicutes,Sporosarcina,oligophilic,8,37- 50°C,"biomineralization of toxic metals
+"
+Aspergillus flavus,"Lead, Iron",Fungus,Ascomycota,Aspergillus,Mesophilic,6.5,30°C,"biomineralization of toxic metals
+"
